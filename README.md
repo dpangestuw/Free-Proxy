@@ -10,6 +10,7 @@
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">
     <img src="https://img.shields.io/badge/socks5-2345-blue">
 </a> <br>
+<!-- BADGE_PLACEHOLDER -->
 </p>
 
 # 🌎 Free Proxy List
