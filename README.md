@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/socks5-294-blue">
   </a>
   <br>
+</p>
 
 # 🌎 Free Proxy List
 Every 10 minutes, fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
