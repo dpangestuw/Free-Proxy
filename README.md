@@ -12,7 +12,7 @@
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
     <img src="https://img.shields.io/badge/All_Proxies-9343-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/Alive_proxies.txt">
-    <img src="https://img.shields.io/badge/Alive_Proxies-454-green">
+    <img src="https://img.shields.io/badge/Alive_Proxies-402-green">
 </a> <br>
 </p>
 
@@ -20,7 +20,7 @@
 Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
 > Proxy found **9343** proxies in the latest update.
 
-> Proxy found **454** alive proxies in the latest update.
+> Proxy found **402** alive proxies in the latest update.
 
 ## 🦄 Features
 * ⚡ Extremely fast
