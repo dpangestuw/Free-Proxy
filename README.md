@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Updated_Every_10_Minutes-passing-success">
   <br>
+  <!-- BADGE_PLACEHOLDER -->
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
     <img src="https://img.shields.io/badge/all-17248-blue">
   </a>
