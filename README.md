@@ -1,15 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Updated_Every_10_Minutes-passing-success">
   <br>
-<a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
-    <img src="https://img.shields.io/badge/all-9314-blue">
-</a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt">
-    <img src="https://img.shields.io/badge/http-3931-blue">
-</a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">
-    <img src="https://img.shields.io/badge/socks4-3038-blue">
-</a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">
-    <img src="https://img.shields.io/badge/socks5-2345-blue">
-</a> <br>
 <!-- BADGE_PLACEHOLDER -->
 </p>
 
