@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Updated_Every_10_Minutes-passing-success">
+  <img src="https://img.shields.io/badge/Updated-passing-success">
   <br>
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt">
-    <img src="https://img.shields.io/badge/Http_Proxies-3861-blue">
+    <img src="https://img.shields.io/badge/Http_Proxies-4050-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks4_Proxies-3061-blue">
+    <img src="https://img.shields.io/badge/Socks4_Proxies-3081-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks5_Proxies-2376-blue">
+    <img src="https://img.shields.io/badge/Socks5_Proxies-2393-blue">
 </a>
   <br>
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
-    <img src="https://img.shields.io/badge/All_Proxies-9298-blue">
+    <img src="https://img.shields.io/badge/All_Proxies-9524-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/Alive_proxies.txt">
-    <img src="https://img.shields.io/badge/Alive_Proxies-0-green">
+    <img src="https://img.shields.io/badge/Alive_Proxies-745-green">
 </a> <br>
 </p>
 
 # 🌎 Free Proxy List
-Every 10 minutes, fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
-> Proxy found **9298** proxies in the latest update.
-> Proxy found **0** alive proxies in the latest update.
+Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
+> Proxy found **9524** proxies in the latest update.
+> Proxy found **745** alive proxies in the latest update.
 
 ## 🦄 Features
 * ⚡ Extremely fast
-* 📝 Validated every 10 minutes
+* 📝 Validated
 * 📓 Sorted into **HTTP**, **HTTPS**, **SOCKS4**, & **SOCKS5**
 * 📦 Available in **.txt** formats
 * 🔐 Supports HTTPS connection
@@ -34,7 +34,7 @@ There are so many ways to get our free proxies.
 
 You can just download the whole list as a `.txt` file.
 
-### 🔑 Fetch with cURL
+### 🔑 Fetch
 Fetch the latest proxy list with the following command:
 
 #### All Proxies
