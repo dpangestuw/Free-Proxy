@@ -2,25 +2,25 @@
   <img src="https://img.shields.io/badge/Updated-passing-success">
   <br>
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt">
-    <img src="https://img.shields.io/badge/Http_Proxies-3867-blue">
+    <img src="https://img.shields.io/badge/Http_Proxies-4241-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks4_Proxies-3038-blue">
+    <img src="https://img.shields.io/badge/Socks4_Proxies-3058-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks5_Proxies-2388-blue">
+    <img src="https://img.shields.io/badge/Socks5_Proxies-2375-blue">
 </a>
   <br>
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
-    <img src="https://img.shields.io/badge/All_Proxies-9293-blue">
+    <img src="https://img.shields.io/badge/All_Proxies-9674-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/Alive_proxies.txt">
-    <img src="https://img.shields.io/badge/Alive_Proxies-1054-green">
+    <img src="https://img.shields.io/badge/Alive_Proxies-1095-green">
 </a> <br>
 </p>
 
 # 🌎 Free Proxy List
 Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
-> Proxy found **9293** proxies in the latest update.
+> Proxy found **9674** proxies in the latest update.
 
-> Proxy found **1054** alive proxies in the latest update.
+> Proxy found **1095** alive proxies in the latest update.
 
 ## 🦄 Features
 * ⚡ Extremely fast
