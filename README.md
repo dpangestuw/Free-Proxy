@@ -4,17 +4,17 @@
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">
     <img src="https://img.shields.io/badge/Socks4_Proxies-4382-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks5_Proxies-1935-blue">
+    <img src="https://img.shields.io/badge/Socks5_Proxies-1933-blue">
 </a>
   <br>
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
-    <img src="https://img.shields.io/badge/All_Proxies-14496-success">
+    <img src="https://img.shields.io/badge/All_Proxies-14494-success">
 </a> <br>
 </p>
 
 # 🌎 Free Proxy List
 Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
-> **14496** Fresh Proxies found in the latest update.
+> **14494** Fresh Proxies found in the latest update.
 
 ## 🎯 Features
 * ⚡ Extremely fast
