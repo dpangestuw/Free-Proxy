@@ -1,39 +1,56 @@
-socks4://74.119.144.60:4145
-socks4://185.93.89.149:11088
-socks4://188.13.148.181:6510
-socks4://147.161.163.31:10801
-socks4://199.187.210.54:4145
-socks4://41.248.2.166:8888
-socks4://184.168.121.153:6391
-socks4://67.43.228.253:9775
-socks4://206.189.86.44:1080
-socks4://156.228.86.211:3129
-socks4://43.248.27.11:54730
-socks4://92.222.237.93:8888
-socks4://183.89.41.64:8080
-socks4://238.96.176.223:8888
-socks4://118.69.186.65:4153
-socks4://174.77.111.197:4145
-socks4://67.213.212.47:23147
-socks4://118.117.189.84:8089
-socks4://217.160.133.98:55996
-socks4://170.106.184.175:9727
-socks4://103.14.171.229:6500
-socks4://208.102.51.6:58208
-socks4://148.72.210.123:11544
-socks4://213.32.69.19:18852
-socks4://109.169.165.15:7788
-socks4://202.162.219.12:1080
-socks4://147.161.128.127:11194
-socks4://67.43.228.253:30951
-socks4://210.159.30.200:8080
-socks4://8.213.129.15:89
-socks4://183.130.155.194:2324
+socks4://174.77.111.196:4145
+socks4://117.81.229.246:8089
+socks4://174.64.199.82:4145
+socks4://199.102.105.242:4145
+socks4://65.16.147.196:445
+socks4://123.201.254.86:3389
+socks4://206.237.9.169:1080
+socks4://77.94.137.243:3128
+socks4://51.222.241.157:35431
+socks4://31.220.43.141:25576
 socks4://117.74.65.207:80
-socks4://154.84.142.205:3128
-socks4://156.235.11.50:3128
-socks4://170.244.64.12:31476
-socks4://185.77.223.130:8085
+socks4://118.98.31.4:3128
+socks4://212.83.138.60:16074
+socks4://192.111.137.34:18765
+socks4://95.133.163.98:61821
+socks4://201.184.239.75:5678
+socks4://103.79.142.170:18699
+socks4://190.119.242.38:4145
+socks4://103.138.212.218:31016
+socks4://199.102.104.70:4145
+socks4://51.222.25.113:18047
+socks4://212.175.41.38:80
+socks4://183.154.50.231:9999
+socks4://46.8.15.187:5500
+socks4://190.53.46.11:45535
+socks4://45.128.232.224:30584
+socks4://103.57.131.153:60009
+socks4://184.168.47.117:80
+socks4://171.237.85.89:1022
+socks4://90.188.56.158:4153
+socks4://47.243.50.83:8088
+socks4://62.171.131.101:1629
+socks4://195.65.192.1:8080
+socks4://66.29.128.246:19860
+socks4://201.149.119.1:4145
+socks4://96.70.52.227:48324
+socks4://185.93.89.150:44886
+socks4://72.10.164.178:16709
+socks4://109.166.207.162:3629
+socks4://88.119.165.46:11906
+socks4://168.119.118.142:46735
+socks4://159.203.162.25:56479
+socks4://171.232.182.214:10004
+socks4://89.117.94.175:3128
+socks4://168.119.64.222:22163
+socks4://185.77.220.54:8085
+socks4://103.10.99.110:5678
+socks4://43.209.0.181:3128
+socks4://82.114.92.222:4145
+socks4://76.212.145.172:8080
+socks4://89.218.185.93:8082
+socks4://254.205.235.145:80
+socks4://168.227.158.33:4145
 socks4://12.11.59.114:1080
 socks4://165.227.53.107:80
 socks4://95.67.156.66:7788
@@ -308,6 +325,42 @@ socks4://200.123.109.166:4153
 socks4://125.27.10.84:4153
 socks4://103.132.92.110:1080
 socks4://103.97.94.22:4153
+socks4://<!DOCTYPE html>
+socks4://<html lang="en">
+socks4://    <head>
+socks4://        <meta charset="utf-8">
+socks4://        <meta name="viewport" content="width=device-width, initial-scale=1">
+socks4://
+socks4://        <title>Server Error</title>
+socks4://
+socks4://        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+socks4://
+socks4://        <style>
+socks4://            /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}code{font-family:monospace,monospace;font-size:1em}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}code{font-family:Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-gray-400{--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity))}.border-t{border-top-width:1px}.border-r{border-right-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-xl{max-width:36rem}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.uppercase{text-transform:uppercase}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.tracking-wider{letter-spacing:.05em}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes  spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@-webkit-keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@keyframes  ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@-webkit-keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@keyframes  pulse{0%,to{opacity:1}50%{opacity:.5}}@-webkit-keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@keyframes  bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@media (min-width:640px){.sm\:rounded-lg{border-radius:.5rem}.sm\:block{display:block}.sm\:items-center{align-items:center}.sm\:justify-start{justify-content:flex-start}.sm\:justify-between{justify-content:space-between}.sm\:h-20{height:5rem}.sm\:ml-0{margin-left:0}.sm\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\:pt-0{padding-top:0}.sm\:text-left{text-align:left}.sm\:text-right{text-align:right}}@media (min-width:768px){.md\:border-t-0{border-top-width:0}.md\:border-l{border-left-width:1px}.md\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}
+socks4://        </style>
+socks4://
+socks4://        <style>
+socks4://            body {
+socks4://                font-family: 'Nunito', sans-serif;
+socks4://            }
+socks4://        </style>
+socks4://    </head>
+socks4://    <body class="antialiased">
+socks4://        <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
+socks4://            <div class="max-w-xl mx-auto sm:px-6 lg:px-8">
+socks4://                <div class="flex items-center pt-8 sm:justify-start sm:pt-0">
+socks4://                    <div class="px-4 text-lg text-gray-500 border-r border-gray-400 tracking-wider">
+socks4://                        500                    </div>
+socks4://
+socks4://                    <div class="ml-4 text-lg text-gray-500 uppercase tracking-wider">
+socks4://                        Server Error                    </div>
+socks4://                </div>
+socks4://            </div>
+socks4://        </div>
+socks4://    </body>
+socks4://</html>
 socks4://47.237.2.245:2002
 socks4://45.159.219.186:80
 socks4://110.78.146.11:4145
