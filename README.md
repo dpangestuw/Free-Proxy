@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt">\n    <img src="https://img.shields.io/badge/Http_Proxies-38619-blue">\n</a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">\n    <img src="https://img.shields.io/badge/Socks4_Proxies-3359-blue">\n</a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">\n    <img src="https://img.shields.io/badge/Socks5_Proxies-2289-blue">\n</a>
+  <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt">\n    <img src="https://img.shields.io/badge/Http_Proxies-38603-blue">\n</a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">\n    <img src="https://img.shields.io/badge/Socks4_Proxies-3341-blue">\n</a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">\n    <img src="https://img.shields.io/badge/Socks5_Proxies-2289-blue">\n</a>
   <br>
-  <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">\n    <img src="https://img.shields.io/badge/All_Proxies-44383-success">\n</a> <br><a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/allive.txt">\n    <img src="https://img.shields.io/badge/All_LIVE-412-brightgreen">\n</a>
+  <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">\n    <img src="https://img.shields.io/badge/All_Proxies-44355-success">\n</a> <br><a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/allive.txt">\n    <img src="https://img.shields.io/badge/All_LIVE-377-brightgreen">\n</a>
 </p>
 
 # 🌎 Free Proxy List
 Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
-> **44383** Total proxies in the latest update.
-> **412** LIVE proxies after validation.
+> **44355** Total proxies in the latest update.
+> **377** LIVE proxies after validation.
 
 ## 🎯 Features
 * ⚡ Extremely fast
