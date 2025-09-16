@@ -1,24 +1,24 @@
 <p align="center">
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt">
-    <img src="https://img.shields.io/badge/Http_Proxies-39057-blue">
+    <img src="https://img.shields.io/badge/Http_Proxies-39048-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks4_Proxies-3443-blue">
+    <img src="https://img.shields.io/badge/Socks4_Proxies-3428-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks5_Proxies-2284-blue">
+    <img src="https://img.shields.io/badge/Socks5_Proxies-2283-blue">
 </a>
   <br>
-  <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
-    <img src="https://img.shields.io/badge/All_Proxies-44921-success">
+  <a href="https://github.com/dpangestuw/Free-Proxy">
+    <img src="https://img.shields.io/badge/All_Proxies-44759-success">
 </a> <br><a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/allive.txt">
-    <img src="https://img.shields.io/badge/All_LIVE-572-brightgreen">
+    <img src="https://img.shields.io/badge/All_LIVE-438-brightgreen">
 </a>
 </p>
 
 # 🌎 Free Proxy List
 Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
-> **44921** Total proxies in the latest update.
+> **44759** Total proxies in the latest update.
 
-> **572** LIVE proxies after fast validation.
+> **438** LIVE proxies after fast validation.
 
 ## 🎯 Features
 * ⚡ Extremely fast
@@ -33,12 +33,8 @@ You can just download the whole list as a `.txt` file.
 ### 🔑 Fetch
 Fetch the latest proxy list:
 
-#### All Proxies
-```shell
-https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt
-```
 
-#### LIVE (All Protocols)
+#### LIVE Proxies (All Protocols)
 ```shell
 https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/allive.txt
 ```
