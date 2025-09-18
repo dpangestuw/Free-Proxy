@@ -10,7 +10,7 @@
   <a href="https://github.com/dpangestuw/Free-Proxy">
     <img src="https://img.shields.io/badge/All_Proxies-43119-success">
 </a> <br><a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/allive.txt">
-    <img src="https://img.shields.io/badge/All_LIVE-386-brightgreen">
+    <img src="https://img.shields.io/badge/All_LIVE-382-brightgreen">
 </a>
 </p>
 
@@ -18,7 +18,7 @@
 Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
 > **43119** Total proxies in the latest update.
 
-> **386** LIVE proxies after fast validation.
+> **382** LIVE proxies after fast validation.
 
 ## 🎯 Features
 * ⚡ Extremely fast
