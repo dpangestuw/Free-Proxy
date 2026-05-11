@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt">
-    <img src="https://img.shields.io/badge/Http_Proxies-5407-blue">
+    <img src="https://img.shields.io/badge/Http_Proxies-5417-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks4_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks4_Proxies-2624-blue">
+    <img src="https://img.shields.io/badge/Socks4_Proxies-2615-blue">
 </a> <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/socks5_proxies.txt">
-    <img src="https://img.shields.io/badge/Socks5_Proxies-18980-blue">
+    <img src="https://img.shields.io/badge/Socks5_Proxies-18979-blue">
 </a>
   <br>
   <a href="https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt">
